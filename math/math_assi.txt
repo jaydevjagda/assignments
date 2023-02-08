@@ -1,0 +1,24 @@
+Math assignments
+Math assignments are quizzes that allow you to enter math functions and certain constants.
+
+Before you submit your assignment, you'll be able to preview your answer to see what the grader will see.
+
+You can use basic symbols for addition (+), subtraction (-), multiplication (*), division (/), and power/exponential (^).
+
+You need to use (*) for multiplication every time. For example, 3x should be 3*x instead.
+Function Syntax
+
+Math assignments accept the following basic and advanced functions.
+
+You can enter these math functions in the form of function(value). For example, the square root of 17 should be entered as sqrt(17). The cosine function of 5x should be entered as cos(5*x).
+Basic numeric functions
+
+    abs (absolute value)
+    max
+    min
+    mod
+    ceiling
+    floor
+    gcd (greatest common denominator; 2 arguments only, enter three or more arguments as gcd((a, b, c, d)) or gcd([a, b, c, d]) e.g. a list/tuple)
+    lcm (least common multiple; 2 arguments only, enter three or more arguments as gcd((a, b, c, d)) or gcd([a, b, c, d]) e.g. a list/tuple)
+    sign (returns -1 if negative, 0 if zero, 1 if positive)
